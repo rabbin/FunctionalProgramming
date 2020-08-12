@@ -1,4 +1,4 @@
-package com.rabbin.funtionalprogramming.gof.com.rabbin.funtionalprogramming.gof;
+package com.rabbin.funtionalprogramming.gof;
 
 import java.util.function.BiConsumer;
 import java.util.function.Supplier;
